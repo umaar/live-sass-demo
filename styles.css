@@ -1,0 +1,9 @@
+h2 {
+  padding: 10px; }
+  h2 span {
+    color: red;
+    text-transform: uppercase;
+    border: 10px solid red;
+    font-weight: bold; }
+
+/*# sourceMappingURL=styles.css.map */

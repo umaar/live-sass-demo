@@ -1,0 +1,14 @@
+
+$color: red;
+$border-size: 10px;
+
+h2 {
+	padding: 10px;
+
+	span {
+		color: $color;
+		text-transform: uppercase;
+		border: $border-size solid red;
+		font-weight: bold;
+	}
+}
